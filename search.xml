@@ -1,53 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>first.md</title>
-    <url>/2020/01/03/first-md/</url>
-    <content><![CDATA[<h1 id="云存档档位下标说明"><a href="#云存档档位下标说明" class="headerlink" title="云存档档位下标说明"></a>云存档档位下标说明</h1><table>
-<thead>
-<tr>
-<th>档位下标</th>
-<th>作用说明</th>
-<th>档位类型</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>0-11</td>
-<td>用户自主存读档, 档位编号1-12</td>
-<td>用户档位</td>
-</tr>
-<tr>
-<td>12</td>
-<td>消费数值修改自动存档</td>
-<td>系统档位</td>
-</tr>
-<tr>
-<td>13</td>
-<td>自动存档，档位1</td>
-<td>系统档位</td>
-</tr>
-<tr>
-<td>14</td>
-<td>自动存档，档位2</td>
-<td>系统档位</td>
-</tr>
-</tbody></table>
-<ul>
-<li>后期档位扩展根据表格定义的下标说明，进行档位使用</li>
-</ul>
-]]></content>
-      <categories>
-        <category>哎折腾</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
-        <tag>Next</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2019/12/28/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<a id="more"></a>
+
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
