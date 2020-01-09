@@ -1,3 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
+  <entry>
+    <title>正则匹配URL地址</title>
+    <url>/2020/01/09/regular-url/</url>
+    <content><![CDATA[<h1 id="正则匹配URL地址"><a href="#正则匹配URL地址" class="headerlink" title="正则匹配URL地址"></a>正则匹配URL地址</h1><figure class="highlight"><table><tr><td class="code"><pre><span class="line">/(((ht|f)tp(s?)\:)?\/\/)?(www\.)?[-a-zA-Z0-9@:%._\+~#=]&#123;2,256&#125;\.[a-z]&#123;2,4&#125;\b([a-zA-Z0-9\-\.\?\,\'\/\\\+&amp;amp;%\$#_=]*)?/g</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>正则表达式</category>
+      </categories>
+      <tags>
+        <tag>正则</tag>
+        <tag>url</tag>
+      </tags>
+  </entry>
 </search>
